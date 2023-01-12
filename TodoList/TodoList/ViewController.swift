@@ -13,7 +13,7 @@ class ViewController: UIViewController {
   var todos = [
     Todo(title: "Acheter carotte",description: "et vendre un 0"),
     Todo(title: "Fondre oignon",description: "et hacher steak"),
-    Todo(title: "Jeter poireaux",description: "tmtc"),
+    Todo(title: "Jeter poireaux",description: "dans la poubelle"),
   ]
 
   @IBOutlet weak var tableView: UITableView!
