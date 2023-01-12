@@ -1,4 +1,6 @@
-# ProgMobile
+# Programmation Mobile IOS Swift
+### MASSON Justin 4A ILC TD 1 TP 1
+
 
 Ce TP nous a permis de développer une applcation complète de type Gestionnaire de tâches(Todo List).Cette application est faite en suivant le modèle MVC.
 
