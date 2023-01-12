@@ -119,7 +119,7 @@ extension ViewController: UITableViewDataSource {
 
 extension ViewController: CheckTableViewCellDelegate {
   
-  func checkTableViewCell(_ cell: CheckTableViewCell, didChagneCheckedState checked: Bool) {
+  func checkTableViewCell(_ cell: CheckTableViewCell, didChangeCheckedState checked: Bool) {
     guard let indexPath = tableView.indexPath(for: cell) else {
       return
     }
